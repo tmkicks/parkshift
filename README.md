@@ -144,7 +144,6 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app.
       <b>Thies Boese</b><br>
       <span>🎓 Finance Master's Applicant & International Business Bachelor</span><br>
       <span>🏫 <b>Maastricht University</b></span><br>
-      
       <a href="mailto:thiesboese05@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
       </a>
