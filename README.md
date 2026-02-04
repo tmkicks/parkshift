@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/public/logo.png" alt="ParkShift Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/thies-boese/parkshift/main/public/logo.png" alt="ParkShift Logo" width="120" />
 </p>
 
-<h1 align="center">🚗 ParkShift</h1>
+<h1 align="center">ParkShift</h1>
 <p align="center">
   <b>Modern Parking Space Marketplace</b><br>
   <i>Find, book, and manage parking spaces with ease.</i>
@@ -44,13 +44,19 @@
 
 ## 🎨 Color Scheme
 
-| Color Name   | Hex       | Preview         |
-|--------------|-----------|----------------|
-| Primary      | `#38BDF8` | <span style="display:inline-block;width:20px;height:20px;background:#38BDF8;border-radius:4px;border:1px solid #ccc;"></span> |
-| Accent       | `#0EA5E9` | <span style="display:inline-block;width:20px;height:20px;background:#0EA5E9;border-radius:4px;border:1px solid #ccc;"></span> |
-| Background   | `#F8FAFC` | <span style="display:inline-block;width:20px;height:20px;background:#F8FAFC;border-radius:4px;border:1px solid #ccc;"></span> |
-| Surface      | `#FFFFFF` | <span style="display:inline-block;width:20px;height:20px;background:#FFFFFF;border-radius:4px;border:1px solid #ccc;"></span> |
-| Text         | `#1E293B` | <span style="display:inline-block;width:20px;height:20px;background:#1E293B;border-radius:4px;border:1px solid #ccc;"></span> |
+| Shade | Hex        | Preview |
+|-------|------------|---------|
+| 50    | `#f0fdf4`  | <img src="https://singlecolorimage.com/get/f0fdf4/20x20" alt="#f0fdf4" style="vertical-align:middle;border-radius:4px;border:1px solid #ccc;"/> |
+| 100   | `#dcfce7`  | <img src="https://singlecolorimage.com/get/dcfce7/20x20" alt="#dcfce7" style="vertical-align:middle;border-radius:4px;border:1px solid #ccc;"/> |
+| 200   | `#bbf7d0`  | <img src="https://singlecolorimage.com/get/bbf7d0/20x20" alt="#bbf7d0" style="vertical-align:middle;border-radius:4px;border:1px solid #ccc;"/> |
+| 300   | `#86efac`  | <img src="https://singlecolorimage.com/get/86efac/20x20" alt="#86efac" style="vertical-align:middle;border-radius:4px;border:1px solid #ccc;"/> |
+| 400   | `#4ade80`  | <img src="https://singlecolorimage.com/get/4ade80/20x20" alt="#4ade80" style="vertical-align:middle;border-radius:4px;border:1px solid #ccc;"/> |
+| 500   | `#22c55e`  | <img src="https://singlecolorimage.com/get/22c55e/20x20" alt="#22c55e" style="vertical-align:middle;border-radius:4px;border:1px solid #ccc;"/> |
+| 600   | `#16a34a`  | <img src="https://singlecolorimage.com/get/16a34a/20x20" alt="#16a34a" style="vertical-align:middle;border-radius:4px;border:1px solid #ccc;"/> |
+| 700   | `#15803d`  | <img src="https://singlecolorimage.com/get/15803d/20x20" alt="#15803d" style="vertical-align:middle;border-radius:4px;border:1px solid #ccc;"/> |
+| 800   | `#166534`  | <img src="https://singlecolorimage.com/get/166534/20x20" alt="#166534" style="vertical-align:middle;border-radius:4px;border:1px solid #ccc;"/> |
+| 900   | `#14532d`  | <img src="https://singlecolorimage.com/get/14532d/20x20" alt="#14532d" style="vertical-align:middle;border-radius:4px;border:1px solid #ccc;"/> |
+| 950   | `#052e16`  | <img src="https://singlecolorimage.com/get/052e16/20x20" alt="#052e16" style="vertical-align:middle;border-radius:4px;border:1px solid #ccc;"/> |
 
 ---
 
@@ -129,12 +135,27 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app.
 
 ## 👤 About the Author
 
-**Thies Boese**  
-Finance Master's Applicant & International Business Bachelor at Maastricht University  
-Maastricht University  
-[Your LinkedIn](https://www.linkedin.com/in/thies-boese-93851429a)  
-[Your Email](mailto:thiesboese05@gmail.com)  
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" alt="Thies Boese Avatar" style="border-radius:50%;"/>
+    </td>
+    <td>
+      <b>Thies Boese</b><br>
+      <span>🎓 Finance Master's Applicant & International Business Bachelor</span><br>
+      <span>🏫 <b>Maastricht University</b></span><br>
+      <a href="mailto:thiesboese05@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      <a href="https://www.linkedin.com/in/thies-boese-93851429a">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-> This project was designed and developed by Thies Boese as part of my academic and professional portfolio.  
-> If you have questions, feedback, or collaboration ideas, feel free to reach out!
+> Developed and maintained by Thies Boese as part of my academic and professional portfolio.<br>
+> For networking, collaboration, or inquiries, please connect via the links above.
+
+---
 
