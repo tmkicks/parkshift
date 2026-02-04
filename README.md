@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thies-boese/parkshift/main/public/logo.png" alt="ParkShift Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/thies-boese/parkshift/main/public/logos/logo-main.png" alt="ParkShift Logo" width="120" />
 </p>
 
 <h1 align="center">ParkShift</h1>
